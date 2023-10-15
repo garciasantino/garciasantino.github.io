@@ -1,0 +1,40 @@
+body {
+ background-color: #1E1E1E;
+}
+
+p {
+ margin: 0%;
+ color: white;
+}
+
+h3 {
+ color: white;
+ margin: 0%;
+}
+
+.servercontainer {
+ background-color: gray;
+ border-radius: 20px;
+ padding: 20px;
+ text-align: left;
+ display: flex;
+ align-items: center;
+ filter: drop-shadow(0 0 0.75rem black);
+}
+
+.servercontainer h3 {
+ margin: 10px;
+ font-family: 'Verdana';
+}
+
+.servercontainer p {
+ margin: 5px;
+ font-family: 'Arial';
+}
+
+.servercontainer img {
+ width: 300px;
+ height: 150px;
+ filter: drop-shadow(0 0 0.75rem black);
+ margin: 5px;
+}
